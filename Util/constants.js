@@ -2,7 +2,7 @@ import { PixelRatio, Dimensions, StyleSheet } from 'react-native';
 // const { width, height } = Dimensions.get('window');
 import { widthPercentageToDP as widthValue, heightPercentageToDP as heightValue } from 'react-native-responsive-screen'
 const WIDTH = 375
-const HEIGHT = 825
+const HEIGHT = 812
 
 // const guidelineBaseWidth = 350;
 // const guidelineBaseHeight = 680;
